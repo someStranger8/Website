@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /blog
+Allow: /index.html
+Allow: /?index.html
+Allow: /index.js
+Allow: /?index.js
+Allow: /robots.txt
+Allow: /?robots.txt
+Disallow: /xml
+Disallow: /?xml
+Disallow: /xhtml
+Disallow: /?xhtml
