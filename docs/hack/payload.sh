@@ -1,4 +1,5 @@
 #!/bin/sh
+# Hacking the world
 
 # Install
 pip3 install sqlmap
