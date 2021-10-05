@@ -4,6 +4,8 @@ import os
 import cobra as c
 
 # banner
+clear = lambda: os.system("clear")
+clear()
 print("\____)\______                    ______/(____/")
 print("/--^____ __'<    SHARK ATTACK    >'__ ____^--\\")
 print("       )/                            \(")
@@ -14,7 +16,7 @@ i=1
 while i < 10:
      shell=input("shark@attack:~$ ")
      if shell == "clear":
-          os.system("clear")
+          clear()
      elif shell == "sqlinject":
           c.sqlinject()
      elif shell == "exploit":
