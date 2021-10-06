@@ -23,6 +23,8 @@ while i < 10:
           c.exploit()
      elif shell == "hackwifi":
           c.hackwifi()
+     elif shell == "fish":
+          os.system("fish")
      elif shell == "hackpasswd":
           usr=input("[*] enter username: ")
           wl=input("[*] enter wordlist: ")
