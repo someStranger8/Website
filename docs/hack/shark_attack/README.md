@@ -3,6 +3,8 @@
 
 ddos - ddos attack
 
+VA - open virtual assistant
+
 scan - scan for open ports
 
 hackdrone - hack drone
