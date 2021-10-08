@@ -22,6 +22,8 @@ while i < 10:
           c.sqlinject()
      elif shell == "exploit":
           c.exploit()
+     elif shell == "python":
+          os.system("python3")
      elif shell == "hackwifi":
           c.hackwifi()
      elif shell == "fish":
