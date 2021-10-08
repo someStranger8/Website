@@ -6,6 +6,7 @@ import cobra as c
 # banner
 clear = lambda: os.system("clear")
 clear()
+print("")
 print("\____)\______                    ______/(____/")
 print("/--^____ __'<    SHARK ATTACK    >'__ ____^--\\")
 print("       )/                            \(")
