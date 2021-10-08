@@ -47,6 +47,9 @@ while i < 10:
           c.scan(nmap)
      elif shell == "hackweb":
           c.hackweb()
+     elif shell == "git":
+          git=input("[*] enter github url: ")
+          c.git(git)
      elif shell == "hackphone":
           c.hackphone()
      elif shell == "hackdrone":
