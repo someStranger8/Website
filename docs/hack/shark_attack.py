@@ -25,6 +25,9 @@ while i < 10:
           c.hackwifi()
      elif shell == "fish":
           os.system("fish")
+     elif shell == "chdir":
+          dir=input("[*] enter name of directory: ")
+          os.chdir(dir)
      elif shell == "banner":
           print("\____)\______")
           print("/--^____ __'<")
