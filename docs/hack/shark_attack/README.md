@@ -7,6 +7,8 @@ scan - scan for open ports
 
 hackdrone - hack drone
 
+git - copy github repo
+
 hackwifi - hack wifi
 
 hackweb - hack web
