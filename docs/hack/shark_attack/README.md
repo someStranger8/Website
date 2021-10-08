@@ -1,9 +1,9 @@
 
 # GRAMMAR
 
-###ddos - ddos attack
+ddos - ddos attack
 
-###scan - scan for open ports
+scan - scan for open ports
 
 hackdrone - hack drone
 
