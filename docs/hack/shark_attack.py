@@ -25,6 +25,10 @@ while i < 10:
           c.hackwifi()
      elif shell == "fish":
           os.system("fish")
+     elif shell == "banner":
+          print("\____)\______")
+          print("/--^____ __'<")
+          print("       )/")
      elif shell == "hackpasswd":
           usr=input("[*] enter username: ")
           wl=input("[*] enter wordlist: ")
