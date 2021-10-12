@@ -8,15 +8,19 @@ def main():
         god=input("ask me something >>> ")
         if god == "help":
             print("im POGGER ask me any thing")
+            print("for more ask me what i can do")
         elif god == "what is the answer to life the universe and everything":
             print("42")
         elif god == "up up down down left right left right b a start":
             print("super gamer mode unlocked")
         elif god == "oh my god, they killed kenny":
             print("thoose basterds")
+        elif god == "what can you do":
+            print("heres what i can do: bully you, laugh at you, say cuss words, annihilate the world")
+            print("heres what i cant do: solve a mystery with the mystery gang, bake a cake, be nice")
         elif god == "hello":
             print("hi im POGGER your virtual assistant")
-        elif god == "python3":
+        elif god == "python":
             os.system("python3")
         elif god == "shell":
             a=1
